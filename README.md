@@ -17,7 +17,7 @@ The monet directories contain Monet paintings.
 The photo directories contain photos. 
 
 ### Files
--monet_jpg - 300 Monet paintings sized 256x256 in JPEG format
--monet_tfrec - 300 Monet paintings sized 256x256 in TFRecord format
--photo_jpg - 7028 photos sized 256x256 in JPEG format
--photo_tfrec - 7028 photos sized 256x256 in TFRecord format
+- monet_jpg - 300 Monet paintings sized 256x256 in JPEG format
+- monet_tfrec - 300 Monet paintings sized 256x256 in TFRecord format
+- photo_jpg - 7028 photos sized 256x256 in JPEG format
+- photo_tfrec - 7028 photos sized 256x256 in TFRecord format
